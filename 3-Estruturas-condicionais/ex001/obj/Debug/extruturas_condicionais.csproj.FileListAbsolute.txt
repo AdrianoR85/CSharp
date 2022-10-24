@@ -1,0 +1,8 @@
+D:\study\CSharp\Back-end\EX001-extruturas_condicionais\EX001-extruturas_condicionais\bin\Debug\EX001-extruturas_condicionais.exe.config
+D:\study\CSharp\Back-end\EX001-extruturas_condicionais\EX001-extruturas_condicionais\bin\Debug\EX001-extruturas_condicionais.exe
+D:\study\CSharp\Back-end\EX001-extruturas_condicionais\EX001-extruturas_condicionais\bin\Debug\EX001-extruturas_condicionais.pdb
+D:\study\CSharp\Back-end\EX001-extruturas_condicionais\EX001-extruturas_condicionais\obj\Debug\extruturas_condicionais.csproj.AssemblyReference.cache
+D:\study\CSharp\Back-end\EX001-extruturas_condicionais\EX001-extruturas_condicionais\obj\Debug\extruturas_condicionais.csproj.SuggestedBindingRedirects.cache
+D:\study\CSharp\Back-end\EX001-extruturas_condicionais\EX001-extruturas_condicionais\obj\Debug\extruturas_condicionais.csproj.CoreCompileInputs.cache
+D:\study\CSharp\Back-end\EX001-extruturas_condicionais\EX001-extruturas_condicionais\obj\Debug\EX001-extruturas_condicionais.exe
+D:\study\CSharp\Back-end\EX001-extruturas_condicionais\EX001-extruturas_condicionais\obj\Debug\EX001-extruturas_condicionais.pdb
